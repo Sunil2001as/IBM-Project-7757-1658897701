@@ -3,11 +3,11 @@ Efficient Water Quality Analysis &amp; Prediction using Machine Learning
 
 ------------------------------------------------------------------------------------------------------------------
 TEAM ID:	PNT2022TMID06599
-------------------------------------------------------------------------------------------
+
 PROJECT TITLE:	Efficient Water Quality Analysis and Prediction using Machine Learning
-------------------------------------------------------------------------------------------
+
 TEAM LEAD: Thamotharan.C (IBM ROLL_NO: 730419205049).
-------------------------------------------------------------------------------------------
+
 TEAM MEMBERS:
 
           Mohanakannan.G (IBM ROLL_NO: 730419205027) Team Member1(19205027), 
