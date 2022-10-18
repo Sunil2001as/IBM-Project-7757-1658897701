@@ -9,8 +9,11 @@ PROJECT TITLE:	Efficient Water Quality Analysis and Prediction using Machine Lea
 TEAM LEAD: Thamotharan.C (IBM ROLL_NO: 730419205049).
 ------------------------------------------------------------------------------------------
 TEAM MEMBERS:
-          Mohanakannan.G (IBM ROLL_NO: 730419205027), 
-          Kathirvel.P (IBM ROLL_NO: 730419205020), 
-          Kokila.V(IBM ROLL_NO: 730419205023).
+
+          Mohanakannan.G (IBM ROLL_NO: 730419205027) Team Member1(19205027), 
+          
+          Kathirvel.P (IBM ROLL_NO: 730419205020) Team Member2(19205020), 
+          
+          Kokila.V(IBM ROLL_NO: 730419205023) Team Member3(19205023).
 ------------------------------------------------------------------------------------------------------------------
 [image](https://user-images.githubusercontent.com/95761516/196192572-057187b0-3762-405f-9c0b-f91aee3d5f7d.png)
